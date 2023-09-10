@@ -9,7 +9,7 @@
 
 ### Usage
 ```
-python hackman.py 8.8.8.8
+python hacktheplanet.py 8.8.8.8
 ```
 
 #### Output
