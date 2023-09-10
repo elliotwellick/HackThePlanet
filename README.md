@@ -8,8 +8,9 @@
 - `requests` library (`pip install requests`)
 
 ### Usage
-
+```
 python hackman.py 8.8.8.8
+```
 
 #### Output
 
