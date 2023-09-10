@@ -3,7 +3,7 @@ import requests
 import json
 
 if len(sys.argv) != 2:
-    print("Usage: python script.py <IP_address>")
+    print("Usage: python hacktheplanet.py <IP_address>")
     sys.exit(1)
 
 ip_address = sys.argv[1]
