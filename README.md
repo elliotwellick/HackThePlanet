@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Name-o-Matic IP Detective 🕵️‍♀️
 
-### This Python script retrieves information about a specific IP address and displays the details.
+### The HACKTHEPLANET script is your reliable companion, using advanced technology to provide essential insights into IP addresses for security engineers, pentesters, and bug bounty hunters.
 
 ### Prerequisites
 
